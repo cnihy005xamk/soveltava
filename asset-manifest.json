@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "./static/js/main.21583b0b.chunk.js",
+    "main.js.map": "./static/js/main.21583b0b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.859863ea.js",
+    "runtime-main.js.map": "./static/js/runtime-main.859863ea.js.map",
+    "static/css/2.267e9e5a.chunk.css": "./static/css/2.267e9e5a.chunk.css",
+    "static/js/2.856263f8.chunk.js": "./static/js/2.856263f8.chunk.js",
+    "static/js/2.856263f8.chunk.js.map": "./static/js/2.856263f8.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.267e9e5a.chunk.css.map": "./static/css/2.267e9e5a.chunk.css.map",
+    "static/js/2.856263f8.chunk.js.LICENSE.txt": "./static/js/2.856263f8.chunk.js.LICENSE.txt",
+    "static/media/mokki1.cb9fc136.jpg": "./static/media/mokki1.cb9fc136.jpg",
+    "static/media/mokki2.c63a8ec7.jfif": "./static/media/mokki2.c63a8ec7.jfif",
+    "static/media/mokki3.5932fb0a.jfif": "./static/media/mokki3.5932fb0a.jfif",
+    "static/media/index.css": "./static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.859863ea.js",
+    "static/css/2.267e9e5a.chunk.css",
+    "static/js/2.856263f8.chunk.js",
+    "static/js/main.21583b0b.chunk.js"
+  ]
+}
